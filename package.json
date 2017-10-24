@@ -1,0 +1,14 @@
+{
+  "name": "we-scrum-firebase-functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "rimraf": "2.6.2",
+    "typescript": "^2.7.0-dev.20171024"
+  },
+  "private": true
+}
